@@ -1,0 +1,11 @@
+{
+  "name": "child_process-eg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "child_process-eg.js",
+  "scripts": {
+    "child-p": "node child_process-eg.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
