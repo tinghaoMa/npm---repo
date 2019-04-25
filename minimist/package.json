@@ -4,7 +4,8 @@
   "description": "",
   "main": "minimist.js",
   "scripts": {
-    "mm": "node minimist.js"
+    "mm": "node minimist.js --platform alipay --env dev",
+    "nn": "node minimist.js "
   },
   "author": "",
   "license": "ISC",
