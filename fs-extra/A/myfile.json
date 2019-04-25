@@ -1,0 +1,182 @@
+{
+  "error_no": 0,
+  "error_msg": "",
+  "result": {
+    "shop_id": "2209164366",
+    "ele_id": "E11072464936523694888",
+    "name": "\u679c\u817f\u513f\u9c9c\u679c\u5207\uff08\u4e0a\u5730\u5e97\uff09",
+    "address": "\u5317\u4eac\u5e02\u6d77\u6dc0\u533a\u4e0a\u5730\u4e03\u8857\u4e1c\u53e3\u5e95\u5546",
+    "image_path": "https:\/\/fuss10.elemecdn.com\/5\/0a\/3f688469b389e1f52ae7dbc689ad2jpeg.jpeg",
+    "business_status": 3,
+    "current_business_time": {
+      "start": "08:30",
+      "end": "21:50"
+    },
+    "promotion_info": "",
+    "brand": "\u679c\u817f\u513f\u9c9c\u679c\u5207",
+    "phone": "17710235851",
+    "description": "\u4f01\u4e1a\u5927\u5ba2\u6237\u7535\u8bdd\uff1a 18618285010\u7814\u7a76\u751f\u81ea\u4e3b\u521b\u4e1a\u6210\u7acb\u679c\u4ed5\u8299\u8fde\u9501\u5e97\uff0c\u6ce8\u518c\u8d44\u672c100\u4e07\u3002\u5207\u7247\u79cd\u7c7b\u5168\u9762\u8c03\u6574\uff0c\u65b0\u9c9c\u5b9e\u60e0\u770b\u5f97\u89c1\uff01",
+    "category": "\u6c34\u679c\u751f\u9c9c",
+    "sku_count": 87,
+    "shop_score": 4.78926,
+    "shop_source_from": 2,
+    "recent_order_num": 2552,
+    "takeout_invoice": 1,
+    "takeout_open_time": "[{\"start\":\"08:30\",\"end\":\"21:50\"}]",
+    "takeout_invoice_min_price": "0",
+    "latitude": "4845657.3",
+    "longitude": "12947785.99",
+    "order_lead_time": 54,
+    "new_style": false,
+    "delivery_mode": {
+      "text": "\u5546\u5bb6\u914d\u9001",
+      "tag": []
+    },
+    "can_refund": 1,
+    "display_refund_label": 1,
+    "is_medicine_shop": 0,
+    "delivery_info": [],
+    "activities": [
+      {
+        "type": "jian",
+        "icon_name": "\u51cf",
+        "icon_name_other": "\u6ee1\u51cf",
+        "msg": "\u5168\u5e97\u6ee159\u51cf15\uff0c\u6ee179\u51cf25",
+        "icon_color": {
+          "bg_color": "white",
+          "front_color": "#e85953",
+          "frame_color": "rgba(226,48,40,0.30)"
+        }
+      },
+      {
+        "type": "shop_tag_pzlm",
+        "icon_name": "\u54c1\u8d28",
+        "icon_name_other": "\u54c1\u8d28",
+        "msg": "\u54c1\u8d28\u7cbe\u9009\u5546\u5bb6",
+        "icon_color": {
+          "bg_color": "white",
+          "front_color": "#e85953",
+          "frame_color": "rgba(226,48,40,0.30)"
+        }
+      },
+      {
+        "type": "g_zhe",
+        "icon_name": "\u6298",
+        "icon_name_other": "\u6298\u6263",
+        "msg": "\u90e8\u5206\u5546\u54c18\u6298\u8d77",
+        "icon_color": {
+          "bg_color": "white",
+          "front_color": "#e85953",
+          "frame_color": "rgba(226,48,40,0.30)"
+        }
+      },
+      {
+        "type": "g_reduce",
+        "icon_name": "\u76f4\u964d",
+        "icon_name_other": "\u76f4\u964d",
+        "msg": "\u7206\u6b3e\u76f4\u964d",
+        "icon_color": {
+          "bg_color": "white",
+          "front_color": "#e85953",
+          "frame_color": "rgba(226,48,40,0.30)"
+        }
+      }
+    ],
+    "activity_tag": [
+      {
+        "type": "jian",
+        "msg": "59\u51cf15",
+        "discount": "15",
+        "color": {
+          "bg_color": "white",
+          "front_color": "#e85953",
+          "frame_color": "rgba(226,48,40,0.30)"
+        }
+      },
+      {
+        "type": "jian",
+        "msg": "79\u51cf25",
+        "discount": "25",
+        "color": {
+          "bg_color": "white",
+          "front_color": "#e85953",
+          "frame_color": "rgba(226,48,40,0.30)"
+        }
+      },
+      {
+        "type": "shop_tag_pzlm",
+        "msg": "\u54c1\u8d28\u7cbe\u9009",
+        "discount": 0,
+        "color": {
+          "bg_color": "white",
+          "front_color": "#e85953",
+          "frame_color": "rgba(226,48,40,0.30)"
+        }
+      },
+      {
+        "type": "g_zhe",
+        "msg": "8\u6298\u8d77",
+        "discount": 0,
+        "color": {
+          "bg_color": "white",
+          "front_color": "#e85953",
+          "frame_color": "rgba(226,48,40,0.30)"
+        }
+      },
+      {
+        "type": "g_reduce",
+        "msg": "\u76f4\u964d",
+        "discount": 0,
+        "color": {
+          "bg_color": "white",
+          "front_color": "#e85953",
+          "frame_color": "rgba(226,48,40,0.30)"
+        }
+      }
+    ],
+    "distance": 0,
+    "city_id": 131,
+    "o_takout_price": 20,
+    "o_takout_cost": 5,
+    "takeout_price": 0,
+    "takeout_cost": 0,
+    "bd_head_bg": "",
+    "bd_head_color": "",
+    "albums": [],
+    "qualification": "[\"https:\\\/\\\/fuss10.elemecdn.com\\\/2\\\/32\\\/0f05672a0761888f1eb0a0d01390bjpeg.jpeg\"]",
+    "first_open_time": {
+      "start": "08:30",
+      "end": "21:50"
+    },
+    "ele_business_state": 1,
+    "medicine_qualification": [
+      {
+        "aptitude_type": "101",
+        "aptitude_name": "\u8425\u4e1a\u6267\u7167",
+        "license_number": "911101083064205937",
+        "aptitude_photo": [
+          "https:\/\/img-star.elemecdn.com\/pb\/812320f05672a0761888f1eb0a0d01390b"
+        ]
+      },
+      {
+        "aptitude_type": "502",
+        "aptitude_name": "\u5927\u5802",
+        "license_number": "",
+        "aptitude_photo": [
+          "https:\/\/img-star.elemecdn.com\/pb\/f82ec935c90dffc042bf9bb2b65d2c4bad"
+        ]
+      },
+      {
+        "aptitude_type": "501",
+        "aptitude_name": "\u95e8\u9762",
+        "license_number": "",
+        "aptitude_photo": [
+          "https:\/\/img-star.elemecdn.com\/pb\/022a536772627fe860ea507684a76f4d7d"
+        ]
+      }
+    ],
+    "is_cold_chain": 0,
+    "is_double_twelve": 0,
+    "is_own_theme": 0
+  }
+}
