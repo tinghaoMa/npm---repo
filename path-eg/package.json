@@ -1,0 +1,11 @@
+{
+  "name": "path-eg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "path-eg.js",
+  "scripts": {
+    "path": "node path-eg.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
