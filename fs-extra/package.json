@@ -4,7 +4,7 @@
   "description": "fs-extar",
   "main": "index.js",
   "scripts": {
-    "fs":"node fs-demo.js"
+    "fs": "node fs-demo.js"
   },
   "author": "",
   "license": "ISC",
