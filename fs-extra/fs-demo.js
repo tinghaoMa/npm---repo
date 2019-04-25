@@ -16,6 +16,15 @@ const fs = require('fs-extra')
 // })
 
 
-const myFile = fs.readFileSync('A/README.md', 'utf8');
+// const myFile = fs.readFileSync('A/README.md', 'utf8');
+//
+// console.log(myFile)
 
-console.log(myFile)
+
+const buildConfig={
+    name:'1111',
+    age:'22222'
+}
+
+
+fs.writeFileSync("./build.json", JSON.stringify(buildConfig));
