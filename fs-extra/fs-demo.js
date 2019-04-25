@@ -22,9 +22,17 @@ const fs = require('fs-extra')
 
 
 const buildConfig={
-    name:'1111',
-    age:'22222'
+    name:'mth',
+    age:'22222',
+    attr:[
+        {
+            a:'1',
+            b:'2'
+        }
+    ]
 }
 
 
-fs.writeFileSync("./build.json", JSON.stringify(buildConfig));
+fs.writeFileSync("./build.json", JSON.stringify(buildConfig,null,2));
+
+
