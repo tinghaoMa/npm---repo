@@ -1,0 +1,14 @@
+{
+  "name": "chalk-eg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chalk-eg.js",
+  "scripts": {
+    "ch":"node chalk-eg.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
